@@ -19,6 +19,8 @@ This project leverages machine learning techniques to detect phishing emails by 
 - **GUI Interface**: User-friendly interface for inputting text and displaying results.
 - **Model Persistence**: Saves the trained model and vectorizer for future use.
 
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/de2a79b2-f5ee-4fcb-a8eb-d1bb8fe7827b" />
+
 ## Technical Details
 
 1. **Data Cleaning**: 
