@@ -20,6 +20,8 @@ This project leverages machine learning techniques to detect phishing emails by 
 - **Model Persistence**: Saves the trained model and vectorizer for future use.
 
 <img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/de2a79b2-f5ee-4fcb-a8eb-d1bb8fe7827b" />
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/31c6bd40-d0e0-44ca-bbba-a127a2e90bc9" />
+
 
 ## Technical Details
 
